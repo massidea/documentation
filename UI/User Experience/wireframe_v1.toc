@@ -1,0 +1,10 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Wireframe}{3}{section.1}
+\contentsline {section}{\numberline {2}Public Start Page}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}The AIDA Principle}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Start Page Layout}{4}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Creating a New Post}{4}{subsection.2.3}
+\contentsline {section}{\numberline {3}Feeds}{6}{section.3}
+\contentsline {subsection}{\numberline {3.1}Generic Feed Layout}{6}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Creating a New Post}{8}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Special Feeds}{8}{subsection.3.3}
